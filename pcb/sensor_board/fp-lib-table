@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mics)(type KiCad)(uri ${KIPRJMOD}/../../kicad-modules/modules/mics.pretty)(options "")(descr ""))
+  (lib (name power)(type KiCad)(uri ${KIPRJMOD}/../../kicad-modules/modules/power.pretty)(options "")(descr ""))
+)

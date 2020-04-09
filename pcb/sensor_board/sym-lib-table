@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name torex)(type Legacy)(uri ${KIPRJMOD}/../../kicad-modules/libs/torex.lib)(options "")(descr ""))
+  (lib (name SPH0641LU4H-1)(type Legacy)(uri ${KIPRJMOD}/../../kicad-modules/libs/SPH0641LU4H-1.lib)(options "")(descr ""))
+)
